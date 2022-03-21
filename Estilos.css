@@ -1,0 +1,40 @@
+footer{
+    background-color: rgb(32, 126, 233);
+}
+.foot{
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    color: rgb(4, 4, 138);
+    font-weight: 900;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.top{
+    background-image: url("assets/doctor.png");
+    background-size: cover; 
+}
+.middle{
+    background-image: url("assets/middle.png");
+    background-size:auto;
+}
+p{
+    color:rgb(129, 129, 129);
+}
+.call{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.icon{
+    width: 2vw;
+}
+.line1{
+    color: grey;
+}
+.line2{
+    margin-left: 2vw;
+}
